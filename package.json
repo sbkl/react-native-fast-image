@@ -73,5 +73,8 @@
     "peerDependencies": {
         "react": "^16.8.6",
         "react-native": ">=0.60.0"
+    },
+    "resolutions": {
+        "@babel/preset-env": "^7.10.3"
     }
 }
